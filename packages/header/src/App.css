@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+.header {
+  background-color: #ccc;
+  background-image: url("../src/assets/icons_header_mfp.svg");
+  background-position: center;
+  background-size: 200px;
+  background-repeat: no-repeat;
+  height: 200px;
+  width: 100%;
+}

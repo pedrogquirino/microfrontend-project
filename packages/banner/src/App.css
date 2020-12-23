@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+.banner {
+  background-color: gainsboro;
+  background-image: url("../src/assets/icons_banner_mfp.svg");
+  background-position: center;
+  background-size: 200px;
+  background-repeat: no-repeat;
+  height: 200px;
+  width: 900px;
+}
